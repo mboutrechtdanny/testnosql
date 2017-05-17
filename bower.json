@@ -1,0 +1,21 @@
+{
+  "name": "confsite",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Buster de Beer <busterman@live.nl>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.42"
+  }
+}

@@ -1,0 +1,12 @@
+#!/usr/bin/env php
+<?php
+
+/**
+ * Created by PhpStorm.
+ * User: bstr
+ * Date: 13-7-16
+ * Time: 14:35
+ */
+
+echo 'running local server on --host=127.0.0.1 --port=3001...' . PHP_EOL;
+exec('php artisan serve --host=127.0.0.1 --port=3001');
